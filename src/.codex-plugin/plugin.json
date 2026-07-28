@@ -1,0 +1,6 @@
+{
+  "name": "alf-code-node-validator",
+  "version": "1.0.0",
+  "description": "ALF Code node용 JavaScript 코드가 채널톡 공식 제약(JS 전용/60초/axios 전용/isSandbox 네트워크 차단/memory.save 필수)을 지키는지 검증한다",
+  "skills": "./skills/"
+}

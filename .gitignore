@@ -1,0 +1,13 @@
+# Claude Code / OMC session + local artifacts
+.claude/
+.omc/
+
+# Session logs (may contain conversation/transcript data) — do not publish
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
